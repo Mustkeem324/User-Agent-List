@@ -3,19 +3,7 @@
 This repository contains a list of user agents used for web scraping purposes. User agents help identify the client device making a request to a server. Please note that web scraping should be done ethically and in compliance with the terms of service of the websites being scraped.
 
 ## User Agent List
-
-1. **User Agent 1**
-   - **Description:** [Description of User Agent 1]
-   - ...
-
-2. **User Agent 2**
-   - **Description:** [Description of User Agent 2]
-   - ...
-
-3. **User Agent 3**
-   - **Description:** [Description of User Agent 3]
-   - ...
-
+```print('hi')
 ## How to Use
 
 If you are using these user agents in your web scraping project, make sure to follow ethical scraping practices. Be aware of the terms of service of the websites you are scraping and avoid causing any harm.
